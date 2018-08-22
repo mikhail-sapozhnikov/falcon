@@ -7,8 +7,7 @@ JDK: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133
 Maven: https://maven.apache.org/download.cgi  
 2) Configure environment variables for JDK 8 and Maven
 3) Clone project files to any folder
-4) From the src/test/resources folder run below command
-For Linux:
+4) From the src/test/resources folder run below command for Linux:
 ```bash
 chmod +x chromedriver_linux64
 ```
